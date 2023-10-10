@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PythonIntegration</string>
+
+        <string-array name="operations">
+            <item>Addition</item>
+            <item>Multiplication</item>
+            <item>Subtraction</item>
+            <item>Division</item>
+        </string-array>
+
 </resources>
